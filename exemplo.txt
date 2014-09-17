@@ -3,3 +3,4 @@ estudo GCS
 eu
 
 linha da lais
+linhas 2 da lais
